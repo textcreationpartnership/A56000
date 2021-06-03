@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Promotion of the Protestant cause in Poland by the ármes of His Majesty the King of Sweden / fully translated.</title>
+         </titleStmt>
+         <extent>Approx. 26KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A56000</idno><idno type="EEBO-CITATION">12276760</idno>
+  <idno type="VID">58460</idno>
+  <idno type="EEBO-PROQUEST">2240971250</idno>
+  
+            <idno type="STC">Wing P3665</idno>
+            <idno type="STC">ESTC R31931</idno>
+            <idno type="OCLC">12276760</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A56000)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 58460)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1512:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Promotion of the Protestant cause in Poland by the ármes of His Majesty the King of Sweden / fully translated.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Swedish-Polish War, 1655-1660.</term>
+               <term type="geographic_name">Sweden --  History --  Charles X Gustavus, 1654-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:58460:1"/>
+            <pb facs="tcp:58460:1"/>
+            <p>THE PROMOTION OF The Protestant Cause IN POLAND, BY The Armes of his Majesty THE KING of <hi>SVVEDEN.</hi>
+            </p>
+            <p>Faithfully Translated.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:58460:2"/>
+            <head>A <hi>Quae</hi>
+            </head>
+            <p>Whether the King of <hi>Sweden</hi> hath taken up Armes against the Kingdom of <hi>Poland</hi> for no other cause, then to propogate the <hi>Protestant Religion,</hi> and to unite the <hi>Reformed</hi> and <hi>Luthe<g ref="char:EOLhyphen"/>ran Churches?</hi>
+            </p>
+            <div type="part">
+               <head>The Answer.</head>
+               <p>TRue it is, that the <hi>Swedes,</hi> as well in all their former <hi>undertakings,</hi> as in this their <hi>warre against Poland,</hi> have endeauoured to make all the world, but especially <hi>England,</hi> beleeve, they aymed at nothing, <hi>save the wel<g ref="char:EOLhyphen"/>fare of the two Evangelicall Professions;</hi> to wit, <hi>the Lutheran, and the Reformed Protestants; the defending of them against the Pa<g ref="char:EOLhyphen"/>pacie, and the augmenting and setling of them in a most Christianly order and decency.</hi>
+               </p>
+               <p>But it is as apparent, as the light at noon-tide, that this was never the intention of the said pretenders, nor the interest of the <hi>Swedish Nation,</hi> which could not be hoped, far less beleeved, by any men of sound judgment and understanding.</p>
+               <p>For not to repeat former passages during the preceding long <hi>German Warre, which was carried on under the pretence of Religion; the</hi> Swedes <hi>did not so much as gain one sole Church for the Reformed Protestants, but lost and destroyed many.</hi>
+               </p>
+               <p>In like manner after at the <hi>meeting at Heilbron,</hi> they had en<g ref="char:EOLhyphen"/>forced the <hi>Prince Elector Palatine,</hi> to build and erect Churches at <hi>Heidelberg,</hi> and other places, for the <hi>Lutherans;</hi> the King of <hi>Sweden Gustavus</hi> a little before his death, did (at <hi>Franckfort,</hi> in the presence and hearing of severall persons of worth, some of which may at this very time be named and produced) say, <hi>That he would rather have his own sword pierce his heart, then to make use of his Forces in the behalf of the Calvinists our Protestants;</hi> whereon we shall not farther dilate: But whether or no the <hi>Swedes,</hi> by this their undertaken warre, have either a will or power to protect and defend the <hi>generall Protestant Cause, as well the Lutherans, as the Reformed Churches,</hi> hath been sufficiently demonstrated, not only by the Divines of <hi>Dant<g ref="char:EOLhyphen"/>sick,</hi> who <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> a publick Instrument in writing have clearly
+<pb n="3" facs="tcp:58460:2"/> manifested, That as from the beginning the <hi>Gospell</hi> was not propagated by force, but by the preaching of the Word of God; not by might and power, but by sufferings and affli<g ref="char:EOLhyphen"/>ctions; so likewise that the encrease of the <hi>Protestant Cause</hi> was never more impeded, then by warre; which is apparent by the sequell of that unfortunate League which was made between those of the Protestant Profession at <hi>Smacalde,</hi> where<g ref="char:EOLhyphen"/>by the greatest power of the <hi>Reformed Churches</hi> was broke asunder and destroyed; the House of <hi>Saxonie</hi> was thereby di<g ref="char:EOLhyphen"/>vided, and the chiefest branch thereof, on that conjuncture so linked to the House of <hi>Austria,</hi> that it durst never after appear, or speak in the behalf of the Protestant Relations, against the interest of the House of <hi>Austria;</hi> that it never durst be aiding in the carrying on of the work of the so called <hi>Reservatum Ecclesiasticum,</hi> or the <hi>Reformed Churches;</hi> and that by the last warres, none were greater losers then the Reformed Protestant Pro<g ref="char:EOLhyphen"/>fessors; none greater gainers then the Romish Party: the whole <hi>Ʋpper Palati<g ref="char:EOLhyphen"/>nate,</hi> having been given away to the House of <hi>Bavaria; Bohemia, Silesia</hi> and <hi>Moravia</hi> to the House of <hi>Austria;</hi> the good Town of <hi>Eger</hi> surrendred for a tri<g ref="char:EOLhyphen"/>fle; and God knows how many millions of souls given over to to the cruell per<g ref="char:EOLhyphen"/>secutions of those, who obtained a power over them, by the disposing of other mens Estates to strangers: not omitting how that the Persecutions of the Pro<g ref="char:EOLhyphen"/>testants in the North, ceased not before the Prince Elector of <hi>Brandenburg</hi> was constrained to part with his Inheritance, the best part of his Estates, to wit, <hi>Pomerania</hi> unto the <hi>Swedes;</hi> so likewise is the same evidently manifested, by the sad condition whereinto the very Lutheran Churches themselves in <hi>Lithuania, Poland, Prussia, Holstein, Bremen, Denmark,</hi> and severall others are fallen, by rea<g ref="char:EOLhyphen"/>son of this <hi>new Swedish undertaken Warre.</hi>
+               </p>
+               <p>For although the Papists had retained their Power in all the said parts, and had proceeded against the Reformed Protestants even by the <hi>Spanish Inquisition,</hi> they could not possibly, in so short a time, have streightned, famished and de<g ref="char:EOLhyphen"/>stroyed (no not by the sword and fire it self) so many of the <hi>Reformed Prote<g ref="char:EOLhyphen"/>stant Christians,</hi> both young and old, men and women, Nobility and Commo<g ref="char:EOLhyphen"/>nalty, as have perished during this pretended <hi>Swedish Protestant warre.</hi> Nor shall I specifie, that through the Papisticall Persecutions, those of Reformed Churches died as Martyrs: whenas at present, severall were put to death un<g ref="char:EOLhyphen"/>der the notion of being <hi>Rebels,</hi> in most horrid manners, first slandering and ca<g ref="char:EOLhyphen"/>lumniating of them, and afterwards plundering and ruining them.</p>
+               <p>Secondy, That the <hi>Swedes</hi> should endeavour particularly <hi>the propagation and settlement of the Reformed Protestant Churches, against the Papacie; or the uniting of them with the Lutherans</hi> (as they report in <hi>England,</hi>) a man may more justly doubt hereof then of the former. For in the first place, in the Swedish Do<g ref="char:EOLhyphen"/>minions, especially in <hi>Pomerania,</hi> they do not only in their Pulpits preach dam<g ref="char:EOLhyphen"/>nation against the Protestant Professors; but also they pray and specifie parti<g ref="char:EOLhyphen"/>cularly, <hi>That it may please God to root out the Calvinist Protestant Doctrine, in like manner, as the Papisticall.</hi> And whereas in former times it was at the liberty of any
+<pb n="4" facs="tcp:58460:3"/> Teacher in <hi>Pomerania,</hi> either to use or omit the like Prayer according as he pleased, or was affected; at present it is inserted in the <hi>Swedish Lyturgie,</hi> or Church Ordinances, as appertaining to the Divine Service, and as it were Canonized therein.</p>
+               <p>Can it therefore possibly be imagined or beleeved, that the <hi>Swedes</hi> should en<g ref="char:EOLhyphen"/>deavour the welfare of those of the Reformed Protestant Churches, whom they pray to God <hi>to root out and destroy?</hi>
+               </p>
+               <p>The first King of <hi>Sweden</hi> did at his Coronation promise and swear, That as formerly, those of the <hi>Reformed Protestant profession, were prohibited and hindred, to use their Divine Service, even in their private assemblies; so likewise he would not suffer any of the Reformed Churches to exercise their Religion in <hi>Sweden;</hi> nay, that he would not admit or advance any of the Reformed Protestant profession, to any Office or dignity; nor make use of them, any otherwise save in his Armies.</hi>
+               </p>
+               <p>Whereby it also appears, what a difference there is between the King of <hi>Polands</hi> capitulations and the <hi>Swedes.</hi>
+               </p>
+               <p>The King of <hi>Poland,</hi> he promiseth, <hi>dissidentes in Religione manutenebo;</hi> That he will maintain and protect those who differ in matters of Religion.</p>
+               <p>The King of <hi>Sweden</hi> on the contrary, he saith; <hi>Reformatos ad officia, neque adhibebo, neque eorum Ecclesias tolerabo:</hi> I will neither admit those of the Re<g ref="char:EOLhyphen"/>formed Protestant Profession to any Offices, neither will I tolerate their Churches.</p>
+               <p>Thirdly, when the <hi>Swedes</hi> entred <hi>Poland,</hi> and the better to gain the peoples affections, did give each one good words; as then doubtless those of the Re<g ref="char:EOLhyphen"/>formed Protestant profession, did also receive good and comfortable promises; but as soon as the <hi>Swedes</hi> became victorious, and thought to have remained Masters of <hi>Poland,</hi> the Reformed Protestants were so horribly dealt withall, as that they were constrained to send an humble supplication to his Electorall Highness of <hi>Brandenburg,</hi> dated from <hi>Lissais</hi> on the 21th. of <hi>March</hi> 1656. and subscribed by the generality; wherein they complained, that they had just cause to apprehend they should suffer intollerable oppressions: In regard whereof they beseeched his <hi>Electorall Highness</hi> to intercede for them with the King of <hi>Sweden,</hi> to the end they might enjoy the same priviledges as the <hi>Luthe<g ref="char:EOLhyphen"/>rans</hi> did at the intercession of the Elector of <hi>Saxonie.</hi>
+               </p>
+               <p>Fourthly, when the Dukedom of <hi>Prussia,</hi> was for a certain space of time, changed into a member of <hi>Sweden</hi> they used those of the Reformed Protestant profession, farre worse then ever the <hi>Poles</hi> did.</p>
+               <p>For although the Protestant Earls, Barons, Gentry and Citizens, did inces<g ref="char:EOLhyphen"/>santly supplicate, That in regard their Forefathers as well as the <hi>Papists</hi> and <hi>Lutherans,</hi> had with their blood and substances, won the Dominions of <hi>Prussia;</hi> and did suffer and bear equall pressures and hazards in the concernments of their native Countrey; they might as well as others, be admitted to offices, charges and places of trust, enjoy the priviledges and rights as Citizens, and not be excluded, or put by the same, by reason, of their Protestant profession, as infamous persons.</p>
+               <p>And moreover, although the Electress of <hi>Brandenburg,</hi> did her self very wisely and compassionately en<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ercede hereon with the King of <hi>Sweden;</hi> yet it was to no purpose at all.</p>
+               <p>And to the end that those of the Reformed Protestant Religion might be the
+<pb n="5" facs="tcp:58460:3"/> more streightned, and excluded from those immunities which were granted by the Confession of <hi>Ausburg,</hi> formerly enacted and consented unto; the preaching of the said confession of <hi>Ausburg</hi> was only appropriated to the <hi>Lu<g ref="char:EOLhyphen"/>therans;</hi> and which was never heard of before, in the Polish Priviledges and Grants, they added thereunto the word <hi>invariatae,</hi> or unalterable; whereas it cannot be proved to all eternity, that those of the Reformed Protestant pro<g ref="char:EOLhyphen"/>fession, do deny any Article of the Confession of <hi>Ausburg,</hi> wherein the words, <hi>sive variata, sive invariata,</hi> either altered, or unaltered, are contained.</p>
+               <p>Fifthly, The <hi>Syacretismus</hi> or <hi>Community,</hi> which was observed in the Divine Service and politicall Government, betwixt the <hi>Lutherans</hi> and those of the Re<g ref="char:EOLhyphen"/>formed Protestant profession, at <hi>Elbing</hi> and other places, and the which was heartily sought for and desired by our Protestant Churches, from the very be<g ref="char:EOLhyphen"/>ginning of the Reformation at the Assembly at <hi>Marpurg,</hi> in the year 1527; as also on other Convocation dayes, and at severall meetings: To which end also so many <hi>Scripta Irenica,</hi> or <hi>Treaties of Ʋnity</hi> were penned; and to be short, the which hath not only been endeavoured by severall Princes of the Empire, but is to this very day desired by the Renowned Prince Elector of <hi>Branden<g ref="char:EOLhyphen"/>burg,</hi> and was also earnestly insisted on by the late Lord Protector of <hi>England,</hi> by the means of M<seg rend="sup">r</seg>
+                  <hi>Dureus:</hi>
+               </p>
+               <p>And without which said <hi>Syncretismus</hi> or <hi>Community,</hi> it is impossible for the Evangelicall Churches (according to our humane capacity) to effect any thing to the purpose, or of moment, against the Papacie in matters of Religion.</p>
+               <p>This said <hi>Syncretismus</hi> or <hi>Community,</hi> as aforesaid, which was admitted of and continued at <hi>Elbing,</hi> beyond the memory of man; (and whereby it appears, that such a Community or Church Tolleration is both possible and practicable) hath been disturbed, and dissolved by the <hi>Swedes;</hi> partly, by their having pro<g ref="char:EOLhyphen"/>tected and animated the seditious party, who began the dissention concerning the not singing Psalms of <hi>David</hi> in the Church; and doubtless by the instiga<g ref="char:EOLhyphen"/>tion of the <hi>Swedes,</hi> did on that account oppose themselves against the Magi<g ref="char:EOLhyphen"/>strates of <hi>Elbing;</hi> Partly also, by their choosing and declaring the Lutheran Ministers (who did take upon themselves to condemne the Reformed Prote<g ref="char:EOLhyphen"/>stant Churches as Hereticks) to be the true observers of the Confession of <hi>Ausburg;</hi> by their admitting and protecting of them, and by their excluding out of the Great or Mother Church M<seg rend="sup">r</seg>
+                  <hi>Tirabent,</hi> because he was a moderate Lutheran.</p>
+               <p>And moreover, to the end they might the better perplex and prejudice the Reformed Protestant Profession, they changed the whole Church Government.</p>
+               <p>They appointed a Consistory, choosing therunto incensed and rude per<g ref="char:EOLhyphen"/>sons, and when they could not obtain of D<seg rend="sup">r</seg>
+                  <hi>Dorscheus</hi> (that great enemy of the Reformed Protestant Churches) to side with them, they sent for another out of the Dukedome of <hi>Prussia,</hi> arming him with these their instructions and desires; <hi>That he should uphold the Lutheran profession in its purity at <hi>Elbing;</hi> That he should out thence those of the Reformed Protestant Profession: That he should d<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sturd the former Ʋnion:</hi> and <hi>that he should so<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> sedition and discord amongst them;</hi> which was accordingly performed by continuall <hi>defamations,</hi> &amp; the like.</p>
+               <p>And can it be imagined, That those should endeavour to imite the Evangeli<g ref="char:EOLhyphen"/>call Professors in all parts? whenas they separate and cast them out from those places, where they had lived in a conformity together, for the space of three<g ref="char:EOLhyphen"/>score
+<pb n="6" facs="tcp:58460:4"/> and ten years and more, to endeavour the procuring of the salvation of heir souls?</p>
+               <p>Sixthly, Whenas a certain Lutheran Divine, by name <hi>Henricus Nicholai,</hi> had published a Treatise against his Antagonists at <hi>Wittemberg,</hi> and had dedicated the same to the Magistrates of <hi>Elbing,</hi> bewailing, in few words, by the Preface thereof, the present disturbing of the peace, quietness and uniformity of the Church of <hi>Elbing,</hi> (which had been enjoyed time out of minde) to the preju<g ref="char:EOLhyphen"/>dice and detriment of severall good Christians. The Swedish Magistrates did thereupon so highly resent the said matter, as that they caused the sale of the said Book to be forbidden, upon the penalty of severe punishment, and a mulct to boot, although the same contained nothing against their Religion or Govern<g ref="char:EOLhyphen"/>ment; and by a publick Decree, hereunto annexed, they prohibited the read<g ref="char:EOLhyphen"/>ing, or having of the said Book.</p>
+               <p>Can it therefore possibly be imagined or beleeved, That those mean well un<g ref="char:EOLhyphen"/>to the Reformed Protestant Churches, who cannot endure a Lutheran Di<g ref="char:EOLhyphen"/>vine, nor his Writings, because they are somewhat moderate? and doth not condemne and damne the Calvinists, but exhort them to peace and unity, and doth account and hold the Toleration and uniformity, to be both possible and Christian like?</p>
+               <p>And in case it be urged, That the Reformed Protestants have during the Swedish Government at <hi>Elbing,</hi> severall times received the Communion among selves in the <hi>English</hi> their houses and dwellings; yet however this was not permitted unto them out of any good will, which the <hi>Swedes</hi> did bear unto them; but only, <hi>pro tempore, &amp; ratione status;</hi> for a time, and out of policie; as it will appear by the ensuing particulars.</p>
+               <p>For in the first place, the <hi>Swedes</hi> did never permit the same, save at the earnest reiterated instance and request of the <hi>Holland</hi> Ambassadors.</p>
+               <p>Secondly, Th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y immediatey limited the said liberty; at the very beginning excluding the natives, and only permitting it to the <hi>English, Scotch,</hi> and the <hi>Hollanders.</hi>
+               </p>
+               <p>Thirdly, The said permission hath not hindred them from excluding and banishing those of the Reformed Protestant Profession, out of the Churches of the old and new Town; and only suffering them once a yeer to meet in a private house.</p>
+               <p>Fourthly, The <hi>Sewdes</hi> only endeavour to draw the common Lutheran peo<g ref="char:EOLhyphen"/>ple to their party; <hi>sub pretextu Religionis,</hi> under the pretence of Religion; and on the contrary, they oppress, burden, prejudice, and finally totally exclude from all offices and dignities, the Antient Families and good Patriots, who for the most part are of the Reformed Protestant Profession, and good peaceable Christians; a thing which, as all the world knows, is now become a common practise amongst them.</p>
+               <p>Moreover, In the fortifying of the old Town, and in the demolishing of the suburbs; they do purposely ruin and pull down the known Calvinists houses, more then the necessity and rules of Architecture requires; which they effect by way of a publike derision.</p>
+               <p>So likewise, those who are only suspected to be <hi>Calvinists,</hi> or are known to haunt and frequent them, at the time of their deaths, are refused a buriall place in the Lutheaan Church-yard, but are sent back to the Fryers Church-yard, not without a great deal of infamy.</p>
+               <pb n="7" facs="tcp:58460:4"/>
+               <p>Finally, At the choosing of the Magistracy by the Comonalty (as it is the custome in those Towns) they will not so much as nominate any of the <hi>Calvinists</hi> by them excluded and disheartned; but call to places of dignity, their new kind of generation, who are but good <hi>Swedes,</hi> or affected to the <hi>Swedish</hi> party; and so root out and extirpate the Reformed Protestant Pro<g ref="char:EOLhyphen"/>fessors, as if they were Antichristians.</p>
+               <p>Nor doth all this neither, proceed out of any zeal or strong Motives in them towards the propagating of the <hi>Lutheran Doctrine;</hi> since it's apparent, that they only aim to endear the greatest party to themselves; and at all times it hath sufficiently been evidenced, whensoever the <hi>Swedes</hi> were Masters and had the over hand, how little they troubled themselves, or took to heart the concernments of the <hi>Lutheran Profession.</hi>
+               </p>
+               <p>So when they thought to have obtained the Crown of <hi>Poland,</hi> they were ready by Oath to have promised the Estates of <hi>Poland,</hi> that they would not cause any alteration in matters of Religion.</p>
+               <p>And when they endeavoured to conquer <hi>Pomerania, Verden,</hi> and <hi>Bremen,</hi> to prepare the way to attain unto the Dominion of the Eastern Sea; the <hi>Cal<g ref="char:EOLhyphen"/>vinian Profession</hi> was not then thought so ill, but it could be comprehended by the Agreements at <hi>Munster,</hi> in the general Treaties of peace, although the <hi>Lutherans</hi> exclaimed never so much against the same. And why should not the Crown of <hi>Poland</hi> be worth a Mass to them? True, They might say, as well as the <hi>Tartar</hi> did, who formerly pretended to that Crown, <hi>Tuus Lutherus, meus Lutherus; tuus Pontifex, meus Pontifex:</hi> Your <hi>Luther</hi> shall be my <hi>Luther,</hi> your Pope shall be my Pope,</p>
+               <p>And they have often seriously debated among themselves, Whether they ought not to have changed off Parties, to have sided with the house of <hi>Austria,</hi> and to have fallen upon the ungratefull Protestant Princes? And in case it hath pleased the house of <hi>Austria</hi> to have assented thereunto, <hi>Pole</hi> and <hi>Ger<g ref="char:EOLhyphen"/>many</hi> had long since been shared, in despight either of <hi>France</hi> or <hi>England</hi> it self.</p>
+               <p>Hereby it doth sufficiently appear, That the <hi>Swedes</hi> do only make use of the whole body of the Evangelical Religion, as a cloak and pretence to advance their Conquests; and chiefly of the Reformed Protestant Profession, only out of policy, to abuse the Commonwealth of <hi>England</hi> and others; to make them believe strange stories, and to give them good encouragements; to drill them on, till they shall have setled their Northern Monarchie; whenas they will then explain themselves, and us they have already let slip in private con<g ref="char:EOLhyphen"/>ferences. It will be, <hi>Ʋnus Rex, una Lex, una Fides, una Religio:</hi> One King, one Law, one Faith, one Religion.</p>
+               <p>And the Northern Crowns being set upon one head, will either cause all others to be silent, or to submit as the <hi>Goths</hi> did.</p>
+               <p>Whenas formerly the <hi>Germaines</hi> had made <hi>Gustavus</hi> great with their own blouds and Estates, he at length said, he would take the one by the legs, to beat our the others braines.</p>
+               <p>Although the Lords the States General did bestirre themselves, and enga<g ref="char:EOLhyphen"/>ged with the <hi>Swedes</hi> against <hi>Denmark.</hi> in the year 1645. yet they only sought ever since to strangle their Defenders and Assistants.</p>
+               <p>Wherefore those who deride not the Almighty, who have any resentments of
+<pb n="8" facs="tcp:58460:5"/> honour left, who love themselves and their native Country; let them pass by the <hi>Swedes</hi> faults, and forgive them, taking a fair warning at their Neigh<g ref="char:EOLhyphen"/>bours losses, and not suffer themselves to be inveagled and cheated by the crafty and subtle Projects of the pleading and over-reaching a Nation.</p>
+               <q>
+                  <floatingText xml:lang="eng">
+                     <body>
+                        <div type="ordinance">
+                           <head>The annexed Ordinance specified in the foregoing Resolution or Answer.</head>
+                           <p>We <hi>Adolph John,</hi> by the Grace of God, Palsgrave of the <hi>Rhyne,</hi> Duke of <hi>Bavaria, Gulick, Cleve,</hi> and <hi>Berge:</hi> Earl of <hi>Veldentz, Spanheim de Marck,</hi> and <hi>Raventberg:</hi> Lord of <hi>Ravenstein,</hi> and Generalissimo of the King of <hi>Swedens</hi> Armies, and chief Director of the three Kingly Palatinates of <hi>Prussia.</hi>
+                           </p>
+                           <p>Do hereby make known and give to understand, unto all the Inhabitants of this Kingly Port of <hi>Prussia,</hi> of what quality or condition soever they be: That after his Kingly Majesty, our Gracious and highly Honoured Lord and Brother, immediately at the beginning, and as soon as it pleased the Almigh<g ref="char:EOLhyphen"/>ty to deliver these Dominions into his hands, did take into his serious conside<g ref="char:EOLhyphen"/>ration, how and by what means, the decayed and almost disordered Church-Government, as well in the Towns as abroad throughout the Countrey, might be set on foot again, and be reduced to a more assured and better order: To which purpose there was of late a <hi>Superintendent</hi> appointed, in the <hi>Name of God,</hi> in the Palatinate of <hi>Mariensburg,</hi> who did publickly officiate in the Mother Church at <hi>Elbing;</hi> and accordingly caused a Consistory to be there called and opened: But whereas some dayes since, a certain person named <hi>Henricus Ni<g ref="char:EOLhyphen"/>cholai,</hi> who was formerly a Professor of the Colledge at <hi>Elbing,</hi> hath emanci<g ref="char:EOLhyphen"/>pated himself, to publish a Treatise in the Latine tongue, intituled, <hi>Quadrigatus expensus,</hi> &amp;c. which said Book was printed at <hi>Stettin</hi> by <hi>N. Go<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>sen,</hi> at the Au<g ref="char:EOLhyphen"/>thors charges, in this present year 1657. by the neglect and oversight of the Li<g ref="char:EOLhyphen"/>censer of the Press; being Dedicated by the Author to the Magistracy and Commonalty of the City of <hi>Elbing:</hi> which said Treatise doth repugne the said Kingly design, and the said Christian defence; as also doth contradict the Go<g ref="char:EOLhyphen"/>vernment of the <hi>Prussian</hi> Churches, and maketh void the same; Moreover, doth disturb and trouble the Inhabitants and common p<gap reason="illegible" extent="3 letters">
+                                 <desc>•••</desc>
+                              </gap>le, who are willing to conform themselves to this his said Majesties will and Ordinances, according to their obligations; and doth endeavour to dispose and move the Magistracy and this Commonalty, to continue (against the said Kingly Ordinances) some ir<g ref="char:EOLhyphen"/>regular Church Ceremonies and Orders, which were altogether unusuall to be observed by the Evangelical Churches, and formerly only winked at in these parts, by way of tolleration. We do therefore hereby in the name and on the behalf of his aforesaid Majesty, order and give a charge unto all and every one of the Inhabitants of this Country, and those who have obliged themselves to be true and faithfull to his said Majesty; but particularly, to all Burgraves, Burgemasters and Magistrates, as well of the great and small Towns: That all the said Treaties of controversal Writings, wheresoever they shall or may be found in these parts, may be taken away, and confiscated by the Magistrate of such places; and not to permit the same to be brought into these parts, either by Water or by Land, nor there to be sold, upon the penalty of severe punishment; that so all Men may behave themselves accor<g ref="char:EOLhyphen"/>dingly, and avoid the penalties prescribed.</p>
+                           <closer>
+                              <dateline>Given at the Kingly Pallace at <hi>Marienburg</hi> on <date>the first of September, 1657.</date>
+                              </dateline>
+                              <signed>Subscribed thus, <hi>Adolp. Johan.</hi>
+                              </signed>
+                           </closer>
+                        </div>
+                     </body>
+                  </floatingText>
+               </q>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:58460:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
